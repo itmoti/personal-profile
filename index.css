@@ -1,6 +1,33 @@
 body {
     margin: 0%;
+    
 }
-.first-section {
-
+h1 {
+    font-size: 40px;
+}
+h2 {
+    font-size : 30px;
+}
+.section-one {
+    background-image: url(/images/top-banner.png);
+}
+  
+    .container-flex {
+  display: flex;
+}
+.orange-text { color: orange;}
+div { 
+    padding: 2%;
+    width : 50%;
+}
+img {
+    width : 100%;
+}
+.button {
+    background-color: orange;
+    background-image: linear-gradient(orange,rgb(255, 174, 0));
+text-decoration: none;
+padding: 5px 10px;
+color: white;
+border-radius: 5px;     
 }
