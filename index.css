@@ -15,7 +15,7 @@ h2 {
 }
 
 .section-one {
-    background-image: url(/images/top-banner.png);
+    background-image: url(images/top-banner.png);
 }
 
 .container-flex {
@@ -50,15 +50,16 @@ img {
 }
 
 .second-div {
-    background-image: url(/images/dream-bg.png);
+    background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-size: 90;
     background-position: right;
 }
 
 .experience {
-    background-image: url(/images/exp-bg.png);
+    background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
+    background-position: left;
 }
 
 .last-box {
